@@ -67,3 +67,7 @@ C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Humanizer.dll
 C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Core.dll
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Core.pdb

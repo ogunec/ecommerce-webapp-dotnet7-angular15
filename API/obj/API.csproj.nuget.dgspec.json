@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj": {}
+    "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj": {
+    "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ogune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ogune\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,15 +21,14 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -44,6 +43,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -82,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj": {
+    "c:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ogune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Core\\obj\\",
+        "outputPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ogune\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ogune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ogune\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +164,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj"
+              "c:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Core\\Core.csproj"
               }
             }
           }

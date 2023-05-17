@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "I2wWRnSpkdWV+CWp7K5vyS+ek22sHM+aBoqeOyz50zRNJCe4iFvyyuRuzyaWgIIabdZY81gzgvvVafTYuBF6UQ==",
+  "dgSpecHash": "yvapFlxMv3JHHSXNfVSIHcmiNE3hzuf0UYIiS6dFtJ/iHR2cKKLhIb+V1vj/A6oqaZFLpmAll9oMvoFue/PdCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ogune\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ogune\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ogune\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ogune\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\ogune\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ogune\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "C:\\Users\\ogune\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\ogune\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",

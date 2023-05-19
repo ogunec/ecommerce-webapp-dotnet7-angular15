@@ -1890,11 +1890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ogune\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ogune\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1904,14 +1904,15 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ogune\\Desktop\\WebApp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

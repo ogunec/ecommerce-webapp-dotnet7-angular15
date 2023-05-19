@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yvapFlxMv3JHHSXNfVSIHcmiNE3hzuf0UYIiS6dFtJ/iHR2cKKLhIb+V1vj/A6oqaZFLpmAll9oMvoFue/PdCA==",
+  "dgSpecHash": "ONmMv+i0L8F+5TFIvC36quVH/PVMxN+kUcU8rAcACNh63p43VAYYOmwMHA23wGKHZ0InT61jq887cU8IHGzlvg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\ogune\\Desktop\\WebApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ogune\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ogune\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

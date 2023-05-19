@@ -71,3 +71,6 @@ C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Core.dll
 C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Infrastructure.dll
 C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\Core.pdb
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ogune\Desktop\WebApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
